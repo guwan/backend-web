@@ -9,6 +9,7 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea
 
 # Generated files
 .idea/**/contentModel.xml
@@ -169,3 +170,12 @@ docs/_book
 
 # TODO: where does this rule come from?
 test/
+.idea/angular-settings.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+backend-web.iml
+package-lock.json
